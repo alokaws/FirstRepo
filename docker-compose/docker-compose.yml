@@ -1,0 +1,4 @@
+version: '3'
+services:
+  sample1:
+    image: inetutils-ping
